@@ -1,0 +1,35 @@
+body {
+    font-family: "IBM Plex Mono", monospace;
+    background-color: #111;
+    color: #f5f5f5;
+}
+
+p{
+    font-size: 1rem;
+}
+
+h1 {
+    font-family: "IBM Plex Mono", monospace;
+    text-align: center;
+    font-size: 4rem;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+
+a:active{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
